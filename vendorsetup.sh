@@ -1,2 +1,0 @@
-add_lunch_combo slim_m7att-userdebug
-add_lunch_combo slim_m7att-eng
